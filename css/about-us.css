@@ -1,0 +1,106 @@
+
+
+.abusxa {
+    /* margin: auto; */
+    /* max-width: 600px; */
+}
+.abusa {
+    margin-bottom: 60px;
+}
+.abusdot span, .abusline span {
+    background: grey;
+    display: block;
+}
+.abusdot span {
+    width: 0;
+    height: 0;
+    padding: 4px;
+    border-radius: 100%;
+}
+.abusline span {
+    width: 50px;
+    height: 2px;
+    border-radius: 2px;
+    margin: 0 10px;
+}
+.abusttl {
+    color: #404040;
+}
+
+
+
+.homaaa {
+    border-left: 4px solid grey;
+    padding: 10px 0;
+    padding-left: 10px;
+    margin: 20px 0;
+}
+.homaaab {
+    margin-top: 5px;
+}
+
+
+
+
+
+
+.abusabb {
+    margin-top: 30px;
+}
+.abusabbx {
+    margin-bottom: 30px;
+    background-color: #079b50;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 360px;
+    border-radius: 10px;
+    overflow: hidden;
+    color: #ffffff;
+}
+.abusabba {
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px 10px;
+    /* padding-right: 20px; */
+    border-radius: 0 10px 0 0;
+}
+.abusabbab {
+    color: #eeeeee;
+}
+
+
+
+.abusabbcnx {
+    margin-bottom: 20px;
+}
+.abusabbcnaa {
+    margin-right: 10px;
+}
+.abusabbcnab {
+    text-transform: uppercase;
+    color: #404040;
+}
+
+
+
+
+/*DESKTOP VERSION BEGINS*/
+
+@media screen and (min-width: 700px){
+    .abusabbxx {
+        font-size: 0;
+    }
+    .abusabbxx > * {
+        font-size: initial;
+    }
+    .abusabbx {
+        width: calc(50% - 20px);
+        height: 400px;
+        display: inline-block;
+        margin: 10px;
+    }
+}
+
+/*DESKTOP VERSION ENDS*/

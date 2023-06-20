@@ -1,0 +1,231 @@
+
+.indb.post {
+    padding-top: 20px;
+}
+.pst {
+    padding-bottom: 20px;
+}
+
+.psta {
+    margin-top: 20px;
+}
+
+.pstaaa {
+    margin: auto;
+    width: 70%;
+    max-width: 250px;
+}
+.pstaaa input {
+    border-bottom: 2px solid #afafaf;
+    padding: 0 10px 10px 10px;
+}
+.pstaaa input:focus {
+    border-bottom: 2px solid #079b50;
+}
+
+
+
+
+
+.pstb {
+    fill: #5f5f5f;;
+}
+
+.pstbaxx, .pstbb {
+    max-width: 600px;
+    height: 300px;
+}
+
+.pstba {
+    overflow: hidden;
+}
+.pstbaxx {
+    border: 2px dashed #bfbfbf;
+    border-radius: 30px;
+}
+.pstbax {
+    padding: 0 20px;
+}
+.pstbaa {
+    margin-bottom: 20px;
+}
+.pstbab {
+    margin-top: 20px;
+}
+.pstbaaa {
+    background: #dfdfdf;
+    border-radius: 30px;
+    padding: 10px 15px;
+}
+.pstbaaaa {
+    background: #f0f0f0;
+    width: 16px;
+    height: 16px;
+    padding: 10px;
+}
+.pstbaaab {
+    color: #5f5f5f;
+    margin-left: 10px;
+}
+.pstbaaab input {
+    color: #202020;
+}
+.pstbaaac {
+    background: #8f8f8f;
+    fill: #ffffff;
+    width: 16px;
+    height: 16px;
+    padding: 6px;
+    margin-left: 10px;
+}
+
+.pstbay {
+    background: #000000;
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+    overflow: hidden;
+    display: none;
+}
+.pstbay.present {
+    display: block;
+}
+.pstbayb {
+    top: 10px;
+    left: 10px;
+    width: 16px;
+    height: 16px;
+    padding: 10px;
+    background: #079b50;
+    fill: #ffffff;
+}
+
+
+.pstbcaa {
+    border-radius: 30px;
+    padding: 20px 30px;
+    box-shadow: 0 2px 1px 1px #e0e0e0;
+    background: #f9f9f9;
+}
+.pstbcaab {
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+.pstca {
+    margin: 0 20px;
+}
+.pstcaa {
+    border-radius: 30px;
+    box-shadow: 0 2px 1px 1px #e0e0e0;
+    background: #f9f9f9;
+    padding: 14px 20px;
+    color: #505050;
+    fill: #505050;
+}
+.pstcaa select {
+    appearance: unset;
+    padding-right: 20px;
+}
+.pstcaa input {
+    max-width: 100px;
+}
+.pstcaaa {
+    margin-right: 2px;
+    color: grey;
+}
+.pstcaab {
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+.pstcab {
+    margin-top: 8px;
+    color: grey;
+}
+
+
+.pstdabaa {
+    background: #079b50;
+    color: #ffffff;
+    padding: 15px 25px;
+    border-radius: 30px;
+    margin: auto;
+    cursor: pointer;
+}
+
+
+
+.pstea {
+    max-width: 600px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px dashed #bfbfbf;
+}
+.psteaba {
+    top: 0;
+    left: 0;
+}
+
+.pstfaa {
+    border-radius: 30px;
+    padding: 20px 30px;
+    box-shadow: 0 2px 1px 1px #e0e0e0;
+    background: #f9f9f9;
+    margin-bottom: 20px;
+    max-width: 400px;
+}
+
+
+
+
+.psta, 
+.pstba, .pstbc,
+.pstca, .pste, .pstex,
+.pstf {
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+.pubbaa {
+    margin-bottom: 50px;
+}
+.pubbaax {
+    background: #f0f0f0;
+    max-width: 700px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.pubbaaa {
+    height: 300px;
+}
+.pubbaab .pstbcaa {
+    padding: 10px 20px;
+    background: #f9f9f9;
+    opacity: 0.7;
+}
+.pubbaab .pstbcaa:hover {
+    background: #ffffff;
+    opacity: 1;
+}
+
+
+.pubbaaaxa {
+    min-width: 50px;
+    max-width: 250px;
+    height: 120px;
+    border-radius: 10px;
+    overflow: hidden;
+}

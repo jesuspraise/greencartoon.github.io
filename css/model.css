@@ -1,0 +1,26 @@
+
+.modlaa {
+    height: 300px;
+}
+
+.animacaconaamod {
+    border-radius: 40px;
+    padding: 10px 20px;
+    background: #079b50;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+
+
+
+/*DESKTOP VERSION*/
+
+@media screen and (min-width: 700px){
+    
+    .modlaa {
+        height: 60vh;
+    }
+}
+
+/*DESKTOP VERSION*/

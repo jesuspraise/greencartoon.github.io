@@ -1,0 +1,28 @@
+
+.srchaa {
+    color: grey;
+}
+
+.srchb {
+    margin-top: 60px;
+}
+.srchba {
+    margin-bottom: 20px;
+}
+.srchbaa {
+    width: 100px;
+    height: 70px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.srchbaa .srchbaaatxt {
+    background: #079b50;
+    color: #ffffff;
+}
+.srchbab {
+    max-width: calc(100% - 104px);
+}
+
+.srchbaba {
+    color: #079b50;
+}

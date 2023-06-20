@@ -1,0 +1,51 @@
+
+.bodycntxz {
+    padding: 0;
+}
+.puxbaaa {
+    width: 100%;
+    height: 180px;
+}
+.puxbaba {
+    margin: 10px 0;
+}
+
+.puxbabba {
+    margin-right: 5px;
+}
+.puxbabba img {
+    width: 50px;
+    height: 50px;
+}
+
+.puxbabbb {
+    color: grey;
+}
+
+
+
+
+.puxbb {
+    padding: 0 5px;
+    line-height: 32px;
+}
+.puxbb p::first-letter {
+    font-size: 30px;
+}
+
+.puxbc {
+    color: grey;
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 700px){
+    .puxbaaa {
+        height: 320px;
+    }
+}
